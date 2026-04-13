@@ -1,0 +1,11 @@
+numpy
+opencv-python
+pillow
+scipy
+matplotlib
+imageio
+pyexiftool
+scikit-image
+requests 
+customtkinter
+pyinstaller
